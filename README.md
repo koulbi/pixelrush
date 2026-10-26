@@ -29,7 +29,7 @@ cosmetic items. No neon, no image assets — the whole world is drawn in code.
 ## Install
 
 ```bash
-cd /home/koulbi/python/neon_dash
+cd pixelrush
 
 # option 1: virtual environment (recommended)
 python3 -m venv .venv
