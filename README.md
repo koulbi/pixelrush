@@ -1,6 +1,6 @@
 # PIXELRUSH
 
-A small, bright platformer made with Python and pygame-ce. Three levels, double jump, dash, coins and a wardrobe of cosmetics.
+holy vibecoded game with CHEATS! 
 
 ![PIXELRUSH menu](menu.png)
 
